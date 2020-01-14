@@ -1,6 +1,6 @@
 **Rafael Deghi**
 ==================
-[![Facebook](https://img.shields.io/badge/social-facebook-blue.svg)](https://www.facebook.com/rafael.deghi.7) [![E-mail](https://img.shields.io/badge/e--mail-contato%40tedk.com.br-green.svg)](rafa.deghi@gmail.com)
+[![Facebook](https://img.shields.io/badge/social-facebook-blue.svg)](https://www.facebook.com/rafael.deghi.7) [![E-mail](https://img.shields.io/badge/e--mail-rafa.deghi%40gmail.com-green.svg)]
 
 Estudante de programação com conhecimentos em JavaScript, NodeJS, React e ReactNative.
 
